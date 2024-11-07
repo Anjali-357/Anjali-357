@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anjali-357
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DSA and previously Hands-on learning experience of python, java and c++
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me - linkedin.com/in/anjali-tiwari-880676273
 
